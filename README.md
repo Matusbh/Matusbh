@@ -1,7 +1,5 @@
 # Hola, me llamo Matus Behun || 🇪🇸
 
-![https://github.com/Matusbh]
-
 ¡Hola! Soy Matus, un aprendiz motivado de desarrollo Full Stack en formación, combinando trabajo, estudio y pasión por la tecnología. En este espacio comparto mi progreso como desarrollador web mientras avanzo en mi bootcamp y creo proyectos reales paso a paso.
 
 <br>
@@ -60,8 +58,6 @@ Si tienes cualquier duda o simplemente quieres conectar, no dudes en escribirme 
 ---
 
 # Hello, my name is Matus Behun || US
-
-![https://github.com/Matusbh]
 
 Hi there! I'm Matus, a motivated Full Stack development student combining work, study, and a passion for technology. In this space, I share my progress as a web developer while I advance through my bootcamp and build real-world projects step by step.
 
