@@ -34,8 +34,8 @@ Mi objetivo es seguir creciendo como programador full stack y construir solucion
 
 Aquí puedes ver algunos de los proyectos en los que he trabajado recientemente:
 
-- [**CSS-Tarea-entregable-1-Header-Spa-Beauty**](https://github.com/Matusbh/Gradient-Creator)  
-- [**CSS-Tarea-entregable-2-Header-Gathsession**](https://github.com/Matusbh/Landing-page-IA)  
+- [**Gradient-Creator**](https://github.com/Matusbh/Gradient-Creator)  
+- [**Landing-creada-con-IA**](https://github.com/Matusbh/Landing-page-IA)  
 - [**CSS-Tarea-entregable-3-Modern-Art-Gallery**](https://github.com/Matusbh/CSS-Tarea-entregable-3-Modern-Art-Gallery)
 
 Estos proyectos me han permitido mejorar mis habilidades en maquetación con HTML, CSS y SCSS, aplicando prácticas modernas de diseño web.
@@ -93,9 +93,10 @@ My goal is to keep growing as a full stack programmer and build useful solutions
 
 Here are some of the CSS projects I’ve worked on recently:
 
-- [**CSS-Tarea-entregable-1-Header-Spa-Beauty**](https://github.com/Matusbh/Gradient-Creator)  
-- [**CSS-Tarea-entregable-2-Header-Gathsession**](https://github.com/Matusbh/Landing-page-IA)  
+- [**Gradient-Creator**](https://github.com/Matusbh/Gradient-Creator)  
+- [**Landing-IA**](https://github.com/Matusbh/Landing-page-IA)  
 - [**CSS-Tarea-entregable-3-Modern-Art-Gallery**](https://github.com/Matusbh/CSS-Tarea-entregable-3-Modern-Art-Gallery)
+
 
 
 These projects helped me practice layout and styling using HTML, CSS, and SCSS while applying modern web design techniques.
