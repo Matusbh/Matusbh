@@ -1,117 +1,57 @@
-# Hola, me llamo Matus Behun || 🇪🇸
+# **Hola, me llamo Matus Behun** 🇪🇸
 
-¡Hola! Soy Matus, un aprendiz motivado de desarrollo Full Stack en formación, combinando trabajo, estudio y pasión por la tecnología. En este espacio comparto mi progreso como desarrollador web mientras avanzo en mi bootcamp y creo proyectos reales paso a paso.
-
-<br>
-
-## Acerca de este repositorio 📁
-
-En este repositorio encontrarás el código fuente de mi página web personal, donde muestro mis proyectos, habilidades y mi evolución como desarrollador.  
-Mi objetivo es seguir creciendo como programador full stack y construir soluciones útiles mientras aprendo día a día en mi camino profesional.
+¡Hola! Soy Matus, desarrollador web en formación. Aquí comparto mis proyectos, mi progreso y el código de mi portfolio mientras avanzo en el bootcamp y sigo aprendiendo cada día.
 
 <br>
 
-## Tecnologías utilizadas 🛠️
+## **Acerca de este repositorio** 📁
 
-### Frontend
+Este repositorio contiene el código de mi portfolio personal construido con **Astro**.  
+Incluye mis trabajos actuales, mis habilidades y mi avance como desarrollador frontend.
+
+<br>
+
+## **Tecnologías utilizadas** 🛠️
+
+### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-FF5A03?style=for-the-badge&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Herramientas
+### **Herramientas**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- Desarrollo Web: HTML, CSS, JavaScript  
-- Git y GitHub para control de versiones  
-- Introducción a Python  
-- Frameworks Front-End: React  
+- Maquetación con HTML, CSS y SCSS  
+- JavaScript para funciones y componentes  
+- React para interfaces dinámicas  
+- Astro para sitios rápidos  
+- Tailwind para estilos modernos  
+- Git + GitHub para control de versiones  
 
 <br>
 
-## Enlaces Relevantes 🌐
+## **Enlaces relevantes** 🌐
 
-Aquí puedes ver algunos de los proyectos en los que he trabajado recientemente:
+Aquí puedes ver algunos de mis proyectos recientes:
 
 - [**Gradient-Creator**](https://github.com/Matusbh/Gradient-Creator)  
 - [**Landing-creada-con-IA**](https://github.com/Matusbh/Landing-page-IA)  
 - [**CSS-Tarea-entregable-3-Modern-Art-Gallery**](https://github.com/Matusbh/CSS-Tarea-entregable-3-Modern-Art-Gallery)
 
-Estos proyectos me han permitido mejorar mis habilidades en maquetación con HTML, CSS y SCSS, aplicando prácticas modernas de diseño web.
-
 <br>
 
-## Contáctame 📫
+## **Contáctame** 📫
 
-Si tienes cualquier duda o simplemente quieres conectar, no dudes en escribirme por LinkedIn o enviarme un correo.
+Si te apetece conectar o tienes alguna duda, aquí me encuentras:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matus-behun-0790a3370/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matusbehun03@gmail.com)
 
-</br>
-
 <br>
 
-¡Esto es solo el comienzo! Gracias por pasarte por aquí y seguir mi camino como desarrollador.
-
----
-
-# Hello, my name is Matus Behun || US
-
-Hi there! I'm Matus, a motivated Full Stack development student combining work, study, and a passion for technology. In this space, I share my progress as a web developer while I advance through my bootcamp and build real-world projects step by step.
-
-<br>
-
-## About this repository 📁
-
-In this repository, you’ll find the source code for my personal website, where I showcase my projects, skills, and evolution as a developer.  
-My goal is to keep growing as a full stack programmer and build useful solutions while learning every day along the way.
-
-<br>
-
-## Technologies Used 🛠️
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-- Web Development: HTML, CSS, JavaScript  
-- Version Control: Git and GitHub  
-- Intro to Python  
-- Front-End Frameworks: React  
-
-<br>
-
-## Relevant Links 🌐
-
-Here are some of the CSS projects I’ve worked on recently:
-
-- [**Gradient-Creator**](https://github.com/Matusbh/Gradient-Creator)  
-- [**Landing-IA**](https://github.com/Matusbh/Landing-page-IA)  
-- [**CSS-Tarea-entregable-3-Modern-Art-Gallery**](https://github.com/Matusbh/CSS-Tarea-entregable-3-Modern-Art-Gallery)
-
-
-
-These projects helped me practice layout and styling using HTML, CSS, and SCSS while applying modern web design techniques.
-
-<br>
-
-## Contact Me 📫
-
-If you have any questions or just want to connect, feel free to reach out via LinkedIn or email.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matus-behun-0790a3370/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matusbehun03@gmail.com)
-
-</br>
-
-<br>
-
-This is just the beginning! Thanks for stopping by and following my journey as a developer.
+¡Gracias por pasarte! Esto solo es el comienzo.
