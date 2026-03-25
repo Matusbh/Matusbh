@@ -25,7 +25,7 @@ Looking for my first professional opportunity in tech.
 
 ## 📌 Featured projects
 
-- 🔍 **[News Dashboard](https://matdevs.com)** — Automation dashboard built with React + n8n. Search any keyword and get real-time results pulled from NewsAPI via webhook.
+- 🔍 **[Rick & Morty Explorer](https://matusbh.github.io/RickMortyApi/#/characters)** — React app consuming the Rick & Morty public API. Includes dynamic filtering, favorites management and localStorage persistence.
 - 🎨 **[Gradient Generator](https://matusbh.github.io/Gradient-Creator/)** — CSS gradient tool with real-time preview and one-click code export.
 - 🌐 **[Portfolio](https://matdevs.com)** — Personal site built with Astro. Lighthouse score 98 performance / 100 best practices.
 
