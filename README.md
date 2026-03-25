@@ -1,57 +1,62 @@
-# **Hola, me llamo Matus Behun** 🇪🇸
+# Hi, I'm Matus Behun 👋
 
-¡Hola! Soy Matus, desarrollador web en formación. Aquí comparto mis proyectos, mi progreso y el código de mi portfolio mientras avanzo en el bootcamp y sigo aprendiendo cada día.
+Frontend Developer focused on building fast, accessible and well-structured interfaces.  
+Currently completing a Full Stack bootcamp at ConquerBlocks while working on real projects that go beyond exercises.
 
-<br>
+I'm also into automation — I work with **n8n** and AI tools to build smarter workflows and speed up development.  
+Looking for my first professional opportunity in tech.
 
-## **Acerca de este repositorio** 📁
+**C2** Spanish · **C2** Slovak · **C1** Czech · **C1** English
 
-Este repositorio contiene el código de mi portfolio personal construido con **Astro**.  
-Incluye mis trabajos actuales, mis habilidades y mi avance como desarrollador frontend.
+---
 
-<br>
+## 🛠️ Stack
 
-## **Tecnologías utilizadas** 🛠️
-
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-FF5A03?style=for-the-badge&logo=astro&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### **Herramientas**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- Maquetación con HTML, CSS y SCSS  
-- JavaScript para funciones y componentes  
-- React para interfaces dinámicas  
-- Astro para sitios rápidos  
-- Tailwind para estilos modernos  
-- Git + GitHub para control de versiones  
+---
 
-<br>
+## 📌 Featured projects
 
-## **Enlaces relevantes** 🌐
+- 🔍 **[News Dashboard](https://matdevs.com)** — Automation dashboard built with React + n8n. Search any keyword and get real-time results pulled from NewsAPI via webhook.
+- 🎨 **[Gradient Generator](https://matusbh.github.io/Gradient-Creator/)** — CSS gradient tool with real-time preview and one-click code export.
+- 🌐 **[Portfolio](https://matdevs.com)** — Personal site built with Astro. Lighthouse score 98 performance / 100 best practices.
 
-Aquí puedes ver algunos de mis proyectos recientes:
+---
 
-- [**Gradient-Creator**](https://github.com/Matusbh/Gradient-Creator)  
-- [**Landing-creada-con-IA**](https://github.com/Matusbh/Landing-page-IA)  
-- [**CSS-Tarea-entregable-3-Modern-Art-Gallery**](https://github.com/Matusbh/CSS-Tarea-entregable-3-Modern-Art-Gallery)
+## 📫 Contact
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matus-behun-0790a3370/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=astro&logoColor=white)](https://matdevs.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matusbehun03@gmail.com)
 
-## **Contáctame** 📫
+---
 
-Si te apetece conectar o tienes alguna duda, aquí me encuentras:
+# Hola, soy Matus Behun 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matus-behun-0790a3370/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matusbehun03@gmail.com)
+Desarrollador Frontend con enfoque en interfaces rápidas, accesibles y bien estructuradas.  
+Actualmente completando un bootcamp Full Stack en ConquerBlocks mientras construyo proyectos reales que van más allá de los ejercicios.
 
-<br>
+Me interesa la automatización — trabajo con **n8n** y herramientas de IA para crear flujos más inteligentes y acelerar el desarrollo.  
+En búsqueda activa de mi primera oportunidad profesional en tech.
 
-¡Gracias por pasarte! Esto solo es el comienzo.
+**C2** Español · **C2** Eslovaco · **C1** Checo · **C1** Inglés
+
+---
+
+# Ahoj, som Matus Behun 👋
+
+Frontend Developer so zameraním na rýchle, prístupné a dobre štruktúrované rozhrania.  
+Momentálne dokončujem Full Stack bootcamp v ConquerBlocks a popritom staviam reálne projekty, ktoré idú nad rámec cvičení.
+
+Zaujíma ma automatizácia — pracujem s **n8n** a AI nástrojmi na tvorbu inteligentnejších workflow a zrýchlenie vývoja.  
+Aktívne hľadám svoju prvú profesionálnu príležitosť v tech.
+
+**C2** Španielčina · **C2** Slovenčina · **C1** Čeština · **C1** Angličtina
