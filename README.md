@@ -25,10 +25,9 @@ Looking for my first professional opportunity in tech.
 
 ## 📌 Featured projects
 
-- 🔍 **[Rick & Morty Explorer](https://matusbh.github.io/RickMortyApi/#/characters)** — React app consuming the Rick & Morty public API. Includes dynamic filtering, favorites management and localStorage persistence.
+- 🤖 **[AutoDash](https://news-n8-n.vercel.app/)** — News search dashboard built with React + Vite + Tailwind. Connects to a real n8n automation workflow that queries NewsAPI, cleans the data and returns it ready to display.
 - 🎨 **[Gradient Generator](https://matusbh.github.io/Gradient-Creator/)** — CSS gradient tool with real-time preview and one-click code export.
-- 🌐 **[Portfolio](https://matdevs.com)** — Personal site built with Astro. Lighthouse score 98 performance / 100 best practices.
-
+- 🔍 **[Rick & Morty Explorer](https://matusbh.github.io/RickMortyApi/#/characters)** — React app consuming the Rick & Morty public API. Includes dynamic filtering, favorites management and localStorage persistence.
 ---
 
 ## 📫 Contact
